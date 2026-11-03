@@ -19,6 +19,9 @@ identifiers:
     value: "10.5281/zenodo.23931214"
     description: "Concept DOI, always the latest version"
   - type: doi
+    value: "10.5281/zenodo.23931946"
+    description: "Version 2026-11-03.2 (77 districts)"
+  - type: doi
     value: "10.5281/zenodo.23931215"
     description: "Version 2026-11-03 (first release, 52 districts)"
 keywords:
