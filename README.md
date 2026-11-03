@@ -1,11 +1,14 @@
 # US school district weather-closing rules
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23931214.svg)](https://doi.org/10.5281/zenodo.23931214)
+
 Published rules that US school districts use to decide whether to close or delay school for snow, ice and cold: wind chill and air temperature thresholds, snow criteria, when they check the forecast, when they decide, and what they do. Every row links its source.
 
 - **52 districts in 18 states**, mostly in the cold northern states
 - **One file:** [`school-closing-rules.csv`](school-closing-rules.csv), UTF-8, one row per district
 - **Every source checked:** 3 November 2026
 - **Licence:** [CC BY 4.0](LICENSE)
+- **DOI:** [10.5281/zenodo.23931214](https://doi.org/10.5281/zenodo.23931214) (always the latest version, archived on Zenodo)
 - **Web page with the table and method:** https://calculatesnowday.com/school-closing-rules
 
 Maintained by Muhammad Shakeel at [CalculateSnowDay](https://calculatesnowday.com), a free snow day calculator built on the National Weather Service forecast.
@@ -54,7 +57,7 @@ Districts change their rules. Always check your own district before relying on a
 
 ## How to cite
 
-> Shakeel, M. (2026). *US school district weather-closing rules* (Version 2026-11-03) [Data set]. CalculateSnowDay. https://calculatesnowday.com/school-closing-rules
+> Shakeel, M. (2026). *US school district weather-closing rules* (Version 2026-11-03) [Data set]. CalculateSnowDay. https://doi.org/10.5281/zenodo.23931214
 
 GitHub's "Cite this repository" button uses [`CITATION.cff`](CITATION.cff).
 

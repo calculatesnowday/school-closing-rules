@@ -12,7 +12,15 @@ version: "2026-11-03"
 date-released: "2026-11-03"
 license: CC-BY-4.0
 url: "https://calculatesnowday.com/school-closing-rules"
-repository: "https://github.com/sh4k33l/school-closing-rules"
+repository: "https://github.com/calculatesnowday/school-closing-rules"
+doi: "10.5281/zenodo.23931214"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23931214"
+    description: "Concept DOI, always the latest version"
+  - type: doi
+    value: "10.5281/zenodo.23931215"
+    description: "Version 2026-11-03"
 keywords:
   - school closings
   - snow days
