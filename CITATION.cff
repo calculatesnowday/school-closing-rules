@@ -8,7 +8,7 @@ authors:
     given-names: Muhammad
     affiliation: CalculateSnowDay
     website: "https://muhammadshakeel.com/"
-version: "2026-11-03"
+version: "2026-11-03.2"
 date-released: "2026-11-03"
 license: CC-BY-4.0
 url: "https://calculatesnowday.com/school-closing-rules"
@@ -20,7 +20,7 @@ identifiers:
     description: "Concept DOI, always the latest version"
   - type: doi
     value: "10.5281/zenodo.23931215"
-    description: "Version 2026-11-03"
+    description: "Version 2026-11-03 (first release, 52 districts)"
 keywords:
   - school closings
   - snow days

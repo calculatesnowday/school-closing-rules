@@ -4,7 +4,7 @@
 
 Published rules that US school districts use to decide whether to close or delay school for snow, ice and cold: wind chill and air temperature thresholds, snow criteria, when they check the forecast, when they decide, and what they do. Every row links its source.
 
-- **52 districts in 18 states**, mostly in the cold northern states
+- **77 districts in 35 states**, from Minnesota and Alaska to Georgia and Texas
 - **One file:** [`school-closing-rules.csv`](school-closing-rules.csv), UTF-8, one row per district
 - **Every source checked:** 3 November 2026
 - **Licence:** [CC BY 4.0](LICENSE)
@@ -15,9 +15,10 @@ Maintained by Muhammad Shakeel at [CalculateSnowDay](https://calculatesnowday.co
 
 ## What the data shows
 
-- Most published cold rules sit between **-20°F and -35°F wind chill**: 22 of the 32 wind chill thresholds fall in that band, and the median is -25°F. The mildest is -10°F (Pennsylvania) and the coldest -40°F (Iowa and Minnesota).
-- Decisions come early: of the 26 districts that give a morning deadline, 25 aim to decide by 6 am.
-- 28 of the 52 rules mention a delay or late start, and 7 name an e-learning or remote day as an option instead of a full closure.
+- Most published cold rules sit between **-20°F and -35°F wind chill**: 22 of the 35 wind chill thresholds fall in that band, and the median is -22°F. The mildest is 10°F (West Virginia) and the coldest -40°F (Iowa and Minnesota).
+- **Southern districts rarely publish a temperature.** Only 3 of the 25 districts from the South, the mid-Atlantic and the southern Plains name one; most publish when they check the roads and when they decide instead.
+- Decisions come early: of the 42 districts that give a morning deadline, 41 aim to decide by 6 am.
+- 45 of the 77 rules mention a delay or late start, and 15 name an e-learning, virtual or other remote day as an option instead of a full closure.
 - Few districts publish a snow amount. Most judge roads, ice and timing instead.
 
 ## Columns
@@ -51,13 +52,13 @@ df["wind_chill_f"].describe()
 - **What counts.** A rule is included only if a district page, board policy, or a dated news story quoting the district states something concrete: a temperature or wind chill, a snow amount, a check or decision time, or the action taken. Pages that only say "many factors" are left out, and so are one-off closing announcements.
 - **Checked at the source.** Every row was read on its source page on the date in `date_checked`. Numbers are only what the source states.
 - **Sources differ.** District pages are the best source. News quotes from a superintendent are guidelines, not formal policy, and older stories may describe rules that have since changed.
-- **Not a complete list.** These are districts that publish a rule, so the data leans toward the cold northern states. Many districts publish no number at all.
+- **Not a complete list.** These are districts that publish a rule. Northern districts publish temperature thresholds far more often than southern ones, and many districts publish no rule at all.
 
 Districts change their rules. Always check your own district before relying on a row.
 
 ## How to cite
 
-> Shakeel, M. (2026). *US school district weather-closing rules* (Version 2026-11-03) [Data set]. CalculateSnowDay. https://doi.org/10.5281/zenodo.23931214
+> Shakeel, M. (2026). *US school district weather-closing rules* (Version 2026-11-03.2) [Data set]. CalculateSnowDay. https://doi.org/10.5281/zenodo.23931214
 
 GitHub's "Cite this repository" button uses [`CITATION.cff`](CITATION.cff).
 
