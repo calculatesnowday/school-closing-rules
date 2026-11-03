@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+Berrien County and Ypsilanti rows now credit and link Bridge Michigan's original January 2025 story instead of a republished copy. Facts unchanged.
+
 ## 2026-11-03.2
 
 Added 25 districts from the South, the mid-Atlantic and the southern Plains (VA, GA, KY, TN, AR, AL, SC, NC, MS, MD, DC, NJ, WV, TX, OK, KS, MO): 77 districts in 35 states. Every new source read on 3 November 2026.
