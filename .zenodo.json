@@ -1,0 +1,17 @@
+{
+  "upload_type": "dataset",
+  "title": "US school district weather-closing rules",
+  "version": "2026-11-03",
+  "publication_date": "2026-11-03",
+  "creators": [
+    { "name": "Shakeel, Muhammad", "affiliation": "CalculateSnowDay" }
+  ],
+  "description": "<p>Published rules that US school districts use to decide whether to close or delay school for snow, ice and cold: wind chill and air temperature thresholds, snow criteria, forecast check times, decision times and the action taken. 52 districts in 18 states. Every row links its source (a district page, board policy or a dated news story quoting the district), and every source was read on 3 November 2026.</p><p>Most published cold rules sit between -20°F and -35°F wind chill (median -25°F), and 25 of the 26 districts that give a morning deadline aim to decide by 6 am.</p><p>Web page with the table and method: <a href=\"https://calculatesnowday.com/school-closing-rules\">calculatesnowday.com/school-closing-rules</a>.</p>",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "keywords": ["school closings", "snow days", "wind chill", "cold weather", "school districts", "education", "United States"],
+  "related_identifiers": [
+    { "identifier": "https://calculatesnowday.com/school-closing-rules", "relation": "isSupplementTo", "resource_type": "other" }
+  ]
+}

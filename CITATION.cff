@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+type: dataset
+title: "US school district weather-closing rules"
+abstract: "Published rules that US school districts use to decide whether to close or delay school for snow, ice and cold: wind chill and air temperature thresholds, snow criteria, forecast check times, decision times and actions, each with its source."
+authors:
+  - family-names: Shakeel
+    given-names: Muhammad
+    affiliation: CalculateSnowDay
+    website: "https://muhammadshakeel.com/"
+version: "2026-11-03"
+date-released: "2026-11-03"
+license: CC-BY-4.0
+url: "https://calculatesnowday.com/school-closing-rules"
+repository: "https://github.com/sh4k33l/school-closing-rules"
+keywords:
+  - school closings
+  - snow days
+  - wind chill
+  - cold weather
+  - school districts
+  - education
+  - United States
