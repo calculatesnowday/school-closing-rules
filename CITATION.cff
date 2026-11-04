@@ -8,8 +8,8 @@ authors:
     given-names: Muhammad
     affiliation: CalculateSnowDay
     website: "https://muhammadshakeel.com/"
-version: "2026-11-03.2"
-date-released: "2026-11-03"
+version: "2026-11-04"
+date-released: "2026-11-04"
 license: CC-BY-4.0
 url: "https://calculatesnowday.com/school-closing-rules"
 repository: "https://github.com/calculatesnowday/school-closing-rules"

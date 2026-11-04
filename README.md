@@ -4,9 +4,9 @@
 
 Published rules that US school districts use to decide whether to close or delay school for snow, ice and cold: wind chill and air temperature thresholds, snow criteria, when they check the forecast, when they decide, and what they do. Every row links its source.
 
-- **77 districts in 35 states**, from Minnesota and Alaska to Georgia and Texas
+- **108 districts in 45 states**, from Alaska, Washington and Maine to Georgia and Texas
 - **One file:** [`school-closing-rules.csv`](school-closing-rules.csv), UTF-8, one row per district
-- **Every source checked:** 3 November 2026
+- **Every source checked:** 3 or 4 November 2026
 - **Licence:** [CC BY 4.0](LICENSE)
 - **DOI:** [10.5281/zenodo.23931214](https://doi.org/10.5281/zenodo.23931214) (always the latest version, archived on Zenodo)
 - **Web page with the table and method:** https://calculatesnowday.com/school-closing-rules
@@ -15,10 +15,10 @@ Maintained by Muhammad Shakeel at [CalculateSnowDay](https://calculatesnowday.co
 
 ## What the data shows
 
-- Most published cold rules sit between **-20°F and -35°F wind chill**: 22 of the 35 wind chill thresholds fall in that band, and the median is -22°F. The mildest is 10°F (West Virginia) and the coldest -40°F (Iowa and Minnesota).
-- **Southern districts rarely publish a temperature.** Only 3 of the 25 districts from the South, the mid-Atlantic and the southern Plains name one; most publish when they check the roads and when they decide instead.
-- Decisions come early: of the 42 districts that give a morning deadline, 41 aim to decide by 6 am.
-- 45 of the 77 rules mention a delay or late start, and 15 name an e-learning, virtual or other remote day as an option instead of a full closure.
+- Most published cold rules sit between **-20°F and -35°F wind chill**: 22 of the 37 wind chill thresholds fall in that band, and the median is -20°F. The mildest is 10°F (West Virginia) and the coldest -40°F (Iowa and Minnesota).
+- **Southern districts rarely publish a temperature.** Only 5 of the 29 districts from the South, the mid-Atlantic and the southern Plains name one; most publish when they check the roads and when they decide instead.
+- Decisions come early: of the 68 districts that give a morning deadline, 65 aim to decide by 6 am.
+- 64 of the 108 rules mention a delay or late start, and 19 name an e-learning, virtual or other remote day as an option instead of a full closure.
 - Few districts publish a snow amount. Most judge roads, ice and timing instead.
 
 ## Columns
